@@ -91,8 +91,7 @@ Output Graph:
 
 Tablular Column:
 
-![WhatsApp Image 2025-08-19 at 22 44 02_95710372](https://github.com/user-attachments/assets/0d1d4264-c119-418f-ac42-47e69f5dc169)
-
+<img width="892" height="717" alt="image" src="https://github.com/user-attachments/assets/f1e04cd1-82a8-496f-b23e-68421de9527c" />
 
 
 Result
